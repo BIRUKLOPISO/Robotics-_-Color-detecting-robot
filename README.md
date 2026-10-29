@@ -1,3 +1,5 @@
+![Color Detecting Robot 1](Color%20sensing%201)
+![Color Detecting Robot 2](Color%20sensing%20)
 # Color-Detecting-Robot
 
 A simple robotics simulation project that **detects the color of boxes** placed in front of the robot and **displays the detected color on a graph**.
